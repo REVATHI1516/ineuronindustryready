@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 pandas 
-=======
 fjhvgdshb
 pandas 
 numpy
->>>>>>> developer1
