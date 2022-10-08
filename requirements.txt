@@ -1,4 +1,3 @@
 pandas 
 fjhvgdshb
-pandas 
-numpy
+
